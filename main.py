@@ -317,7 +317,7 @@ while True:
         print("Görüşleriniz bizim için değerlidir ve ne düşündüğünüzü bilmek isteriz!\n"
               "Adınızı yazın, düşüncelerinizi ve önerilerinizi belirtin.")
         mail_adress = "mmailg2005@gmail.com"
-        password = "mailg12345"
+        password = "do not hack my acoount"
         send_to = "mhmtmrtltnts@gmail.com"
         try:
             mail = smtplib.SMTP("smtp.gmail.com", 587)
